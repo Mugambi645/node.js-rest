@@ -1,0 +1,14 @@
+{
+    "employee1": {
+        "name":"jane doe",
+        "department": "procurement",
+        "id":1,
+        "salary":80000
+    },
+    "employee2": {
+        "name":"john teri",
+        "department":"food processing",
+        "id":2,
+        "salary":100000
+    }
+}
